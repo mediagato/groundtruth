@@ -1,0 +1,19 @@
+{
+  "name": "groundtruth",
+  "version": "0.1.0",
+  "description": "Audit a README, config comments or docs site against the running system, the code and git; fix what is false, then fill what is missing.",
+  "author": {
+    "name": "MEDiAGATO",
+    "url": "https://github.com/mediagato"
+  },
+  "homepage": "https://github.com/mediagato/groundtruth",
+  "repository": "https://github.com/mediagato/groundtruth",
+  "license": "MIT",
+  "keywords": [
+    "claude-skill",
+    "agent-skills",
+    "documentation",
+    "docs",
+    "claude-code"
+  ]
+}
